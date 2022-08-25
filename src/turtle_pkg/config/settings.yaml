@@ -1,0 +1,2 @@
+goals: {x: 1, y: 1}
+gains: {linear: 2.0, angular: 5.0}

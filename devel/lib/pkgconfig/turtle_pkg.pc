@@ -1,0 +1,8 @@
+prefix=/home/mohamed/TurtleProject/devel
+
+Name: turtle_pkg
+Description: Description of turtle_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

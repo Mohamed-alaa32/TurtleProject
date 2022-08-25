@@ -1,0 +1,8 @@
+prefix=/home/mohamed/TurtleProject/devel
+
+Name: TurtleGame
+Description: Description of TurtleGame
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
